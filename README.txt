@@ -11,7 +11,13 @@ ensuite jai réalisé mon premier commit grace a git commit
 
 ensuite j'ai fait un git remote add origin https://github.com/RmpNathan/QueteGit.git et un git push -u origin master pour que les fichier soit envoyé sur github
 
-j'ai ensuite enregistré ce document , refaire un commit git commit "second commit"
+
+j'ai ensuite enregistré ce document , j'ai ensuite refait un git add README.txt
+ refaire un commit git commit "second commit"
+
+et ensuite j'ai refait un git push -u origin master pour que les fichier modifier soit envoyé sur github
+
+
 
 
 
